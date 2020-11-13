@@ -1,3 +1,4 @@
 # Application Software Lab
-## 1 *Lab programs*   `:arrow_left:`
-
+##  *Table Of Contents*  ➡️
+- [Lab1](./application software)
+- [Lab2](./application software2)
