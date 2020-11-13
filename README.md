@@ -1,4 +1,4 @@
 # Application Software Lab
 ##  *Table Of Contents*  ➡️
-- [Lab1](./application software)
-- [Lab2](./application software2)
+- [Lab1](cec_application_software_lab_1/application software)
+- 
