@@ -12,4 +12,4 @@
 - Delete all values from the table
 - Delete the entire table
 **Solutions**
-👉 [**Lab1**]()
+👉  [**Lab1**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software.sql)
