@@ -1,4 +1,5 @@
 # Application Software Lab
 ##  *Table Of Contents*  ➡️
-- [*Lab1*](https://www.google.com)
+1. ### Query-1:
+
 - 
