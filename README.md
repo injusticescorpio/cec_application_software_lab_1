@@ -13,7 +13,7 @@
 - Delete the entire table
 
 **Solutions
-👉  [###**Lab1**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software.sql)**
+👉  [###**Query-1**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software.sql)**
 
 ### Query-2:
 **Questions**
@@ -26,4 +26,4 @@
 -  Delete a tuple from the table employee
 
 **Solutions**
-👉  [**Lab1**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software2.sql)
+👉  [**Query-2**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software2.sql)
