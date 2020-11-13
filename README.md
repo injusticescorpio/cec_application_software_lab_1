@@ -24,5 +24,6 @@
 -  Select all details from the table.
 -  Change the salary of employee code is e1.
 -  Delete a tuple from the table employee
-**Solutions**<br>
-👉  [###**Lab1**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software2.sql)
+
+**Solutions**
+👉  [**Lab1**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software2.sql)
