@@ -13,7 +13,7 @@
 - Delete the entire table
 
 **Solutions
-👉  [###**Query-1**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software.sql)**
+👉  [**Query-1**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software.sql)**
 
 ### Query-2:
 **Questions**
