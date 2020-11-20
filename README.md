@@ -27,3 +27,13 @@
 
 **Solutions**
 👉  [**Query-2**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software2.sql)
+
+### Query-3:
+**Questions**
+
+-  Create table employdetails with empid references to the empid in employee table
+-  Display the details of employee table where empid in employedetails table
+-  Display the details of employee table where empid notin employedetails table
+
+**Solutions**
+👉  [**Query-3**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software3.sql)
