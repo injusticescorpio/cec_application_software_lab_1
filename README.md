@@ -50,9 +50,11 @@
       <li>Dept_id</li>
       <li>Salary(check –salary>2000)</li>
    </ul>
-   2.	Instructor table
+  2.	Instructor table
 -  Name(not null)
 -  Code
 -  Id(default)
+
+<br>
 **Solutions**
 👉  [**Query-4**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software4.sql)
