@@ -42,14 +42,15 @@
 **Questions**
 - Create and insert values for the following tables department and instructor(with constarints)
    **1. Department table**
-      - Code(primary key)
-      - Title 
-      - Dept_name(unique)
-      - Dept_id
-      - Salary(check –salary>2000)
+   
+      -  Code(primary key)
+      -  Title 
+      -  Dept_name(unique)
+      -  Dept_id
+      -  Salary(check –salary>2000)
    **2.	Instructor table**
-      - Name(not null)
-      - Code
-      - Id(default)
+      -  Name(not null)
+      -  Code
+      -  Id(default)
 **Solutions**
 👉  [**Query-4**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software4.sql)
