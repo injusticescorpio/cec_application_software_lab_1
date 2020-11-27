@@ -54,6 +54,5 @@
       -  Code
       -  Id(default)
 
-<br>
 **Solutions**
 👉  [**Query-4**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software4.sql)
