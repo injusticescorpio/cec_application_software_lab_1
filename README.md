@@ -40,8 +40,9 @@
 
 ### Query-4:
 **Questions**
-- Create and insert values for the following tables department and instructor(with constarints)
-   **1. Department table**
+1. Create and insert values for the following tables department and instructor(with constarints)
+
+   1. Department table
       <ul>
       <li>Code(primary key)</li>
       <li>Title</li>
@@ -49,9 +50,9 @@
       <li>Dept_id</li>
       <li>Salary(check –salary>2000)</li>
    </ul>
-   **2.	Instructor table**
-      -  Name(not null)
-      -  Code
-      -  Id(default)
+   2.	Instructor table
+-  Name(not null)
+-  Code
+-  Id(default)
 **Solutions**
 👉  [**Query-4**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software4.sql)
