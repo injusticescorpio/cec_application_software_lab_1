@@ -51,9 +51,9 @@
       <li>Salary(check –salary>2000)</li>
    </ul>
   2.  Instructor table
-      -     Name(not null)
-      -     Code
-      -     Id(default)
+      -   Name(not null)
+      -   Code
+      -   Id(default)
 
 <br>
 **Solutions**
