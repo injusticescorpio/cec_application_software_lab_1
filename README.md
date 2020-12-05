@@ -59,10 +59,12 @@
 
 ### Query-4:
 **Questions**
+
 Practice of SQL TCL commands like Rollback, Commit, Savepoint
 -	Create a table class. Fields are name and id
 -	Insert values into the table
 -	Display the table
 -	Apply commit, save point and rollback commands
+
 **Solutions**
 👉  [**Query-5**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software5.sql)
