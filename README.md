@@ -68,3 +68,17 @@
 
 **Solutions**
 👉  [**Query-5**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software5.sql)
+
+### Query-6:
+**Questions**
+1. Creation of Views and Assertions
+   - Create a table store. Fields are order no, code, item, quantity, price, discount, mrp
+   - Inset values into the table
+   - Display the table
+   -  Create a view with item_name and quantity for the above table
+   - Write a query to check whether any changes made to present table is reflected in view.
+   - Write a query to delete a view
+
+**Solutions**
+👉  [**Query-6**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software6.sql)
+
