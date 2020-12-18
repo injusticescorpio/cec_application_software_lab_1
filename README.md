@@ -82,3 +82,17 @@
 **Solutions**
 👉  [**Query-6**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software6.sql)
 
+### Query-7:
+**Questions**
+
+1. Implementation of Build in functions in RDBMS
+
+-	Create a table store. Fields are order no, code, item, quantity, price, discount, mrp
+-	Insert values into the table
+-	Display the table
+-	Write an SQL query to display the reminder, if the amount of an each item in store is divided by 9.
+- 	Write SQL query to display the amount in store and its square
+-	Write SQL query to divide the amount in stock of each item by 7 in store table and display the result round to the nearest integer.
+
+**Solutions**
+👉  [**Query-7**](https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software7.sql)
